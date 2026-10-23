@@ -13,7 +13,12 @@ This recipe is only possible when combining mods like:
 * **Fargo's Souls Mod**
 * **Calamity Overhaul**
 
-*It's unfinished because I was too lazy.*
+**Notes:**
+* Item quantities are not accurate.
+* There are some bugs with core mechanics.
+* *It's unfinished because I was too lazy.*
+
+> **If anyone cares and wants to finish it, please do! I'd really love to see the final result.**
 
 ---
 
@@ -26,4 +31,9 @@ This recipe is only possible when combining mods like:
 * **Fargo's Souls Mod**
 * **Calamity Overhaul**
 
-*Он не доделан, мне было лень.*
+**Примечания:**
+* Количество предметов не точное.
+* Присутствуют некоторые баги с основными механиками.
+* *Он не доделан, мне было лень.*
+
+> **Если кому-то не всё равно и есть желание доделать — буду очень рад посмотреть на финальный результат!**
